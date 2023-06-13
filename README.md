@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvaTejaSamala
 - 👀 I’m interested in Cloud Application Development
-- 🌱 I’m currently learning Web applictions
+- 🌱 I’m currently learning ios development
 - 💞️ I’m looking to collaborate on All things related to cloud Application Developement
 - 📫 You can reach me on whatsapp at +91 9553472381 and on Email at dhruvatej.5@gmail.com
 
